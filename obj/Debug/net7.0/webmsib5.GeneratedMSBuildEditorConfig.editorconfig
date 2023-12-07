@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\BACKUP OPANG\MIC\MSIB Web Development\MSIB 5\Demo\webmsib5
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/BACKUP OPANG/MIC/MSIB Web Development/MSIB 5/Demo/webmsib5/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/BACKUP OPANG/MIC/MSIB Web Development/MSIB 5/Demo/webmsib5/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
